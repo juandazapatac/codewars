@@ -1,4 +1,5 @@
-# codewars_juanzapata
-Codewars is a community where you solve katas. These are programming challenges proposed by other community members 🥋, each time you solve a kata, you level up your rank. This is definitely a nice and funny way to practice your skills 🎮!
+# Codewars
 
-Here I will upload my katas. Find me in codewars as juandazapatac. 
+Codewars is a katas-solving community. A kata is a programming challenge proposed by another community member 🥋. 
+
+Find me in Codewars as juandazapatac. 
